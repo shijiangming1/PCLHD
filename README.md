@@ -13,12 +13,12 @@
   <a href="https://scholar.google.com/citations?hl=zh-CN&pli=1&user=H1rqfM4AAAAJ" target="_blank"><strong>Xiangbo Yin*</strong></a><sup>2</sup> ·
   <a href="https://scholar.google.com/citations?user=a-I8c8EAAAAJ&hl=zh-CN&oi=sra" target="_blank"><strong>Yachao Zhang</strong></a><sup>3</sup> ·
   <a href="https://scholar.google.com/citations?user=CXZciFAAAAAJ&hl=zh-CN&oi=sra" target="_blank"><strong>Zhizhong Zhang</strong></a><sup>3</sup> ·
-  <a href="https://scholar.google.com/citations?user=RN1QMPgAAAAJ&hl=zh-CN&oi=sra" target="_blank"><strong>Yuan Xie†</strong></a><sup>2</sup> ·
+  <a href="https://scholar.google.com/citations?user=RN1QMPgAAAAJ&hl=zh-CN&oi=sra" target="_blank"><strong>Yuan Xie†</strong></a><sup>1,3</sup> ·
   <a href="https://scholar.google.com/citations?user=idiP90sAAAAJ&hl=zh-CN&oi=sra" target="_blank"><strong>Yanyun Qu†</strong></a><sup>2</sup>
 </p>
 
 <p align="center">
-  <sup>1</sup>Shanghai Chuangzhi College, Shanghai, China <br>
+  <sup>1</sup>Shanghai Innovation Institute, Shanghai, China <br>
   <sup>2</sup>Xiamen University, Xiamen, China <br>
   <sup>3</sup>East China Normal University, Shanghai, China
 </p>
